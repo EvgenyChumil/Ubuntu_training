@@ -1,2 +1,3 @@
 ip a, ssh keygen, cp, ls, cd, git status, git cofig, git branch, git add, git commit, git add, git push, clear, merge, git push, git pull
 echo, cat
+git checkout
